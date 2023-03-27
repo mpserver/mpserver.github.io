@@ -198,6 +198,13 @@
   });
 
   /**
+   * Initiate portfolio lightbox-maps 
+   */
+  const portfolioLightboxMaps = GLightbox({
+    selector: '.portfolio-lightbox-maps'
+  });
+
+  /**
    * Portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
