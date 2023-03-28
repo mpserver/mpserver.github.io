@@ -197,12 +197,6 @@
     selector: '.portfolio-lightbox'
   });
 
-  /**
-   * Initiate portfolio lightbox-maps 
-   */
-  const portfolioLightboxMaps = GLightbox({
-    selector: '.portfolio-lightbox-maps'
-  });
 
   /**
    * Portfolio details slider
